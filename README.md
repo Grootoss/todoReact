@@ -6,4 +6,4 @@
 
 Используемые технологии: TypeScript, Vite, React, Css modules.
 
-Опубликованая версия: [ссылка](https://goodcode47.github.io/todoReact/)
+Опубликованая версия: [ссылка](https://grootoss.github.io/todoReact/)
